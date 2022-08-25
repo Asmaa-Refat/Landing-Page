@@ -1,6 +1,7 @@
 # Landing Page Project (first project WEB-Development)
 # Languages Used --> HTML / CSS / JS
 # Name: Asmaa Refaat Abd ELmabood
+# Udacity Project FWD
 -------------------------------------
 # Project Description
 This project is an interactive landing page project consists of some HTML and CSS as starter code and JS which i added.
